@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(48, 48, 48);
+    text-align: center;
+}
+
+#score,#timer{
+    font-family: monospace;
+    color: white;
+    right: 120px;
+}
+
+table{
+    width: 300px;
+    height: 300px;
+    border-spacing: 10px;
+}
+
+.game{
+    background-color: darkslategrey;
+    width: 500px;
+    height: 500px;
+    border-spacing: 10px;
+}
+
+.grid{
+    border-color: green;
+}
+#reload{
+    font-family: monospace;
+    background-color: darkslategrey;
+    color:white;
+}
